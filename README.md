@@ -1,7 +1,5 @@
 # Retrieval-augmented Generation using PDF URLs
 
-**Author**: Dany Raihan
-
 This project, for demonstartive purpose, uses `langchain` to chain outputs together into a flow for radibility, `chromadb` as Vector database, `text-embedding-3-small` by OPENAI to vectorize text, and `gpt-4o-mini` by OPENAI to query contexts and questions. However, you can replace any of the componet using any model or alternatives.
 
 
